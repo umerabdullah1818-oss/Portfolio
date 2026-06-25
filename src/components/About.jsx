@@ -1,8 +1,8 @@
 export default function About() {
   const experiences = [
-    { role: "AI Developer Intern", company: "DBtronics.org — Canada ", date: "Jan 2026 – Present" },
-    { role: "Web Developer Intern", company: "Reownlogics — Pakistan", date: "2025" },
-    { role: "Frontend Developer Intern", company: "US Group — Pakistan", date: "2024" },
+    { role: "AI Developer", company: "DBtronics.org — Canada ", date: "Jan 2026 – Present" },
+    { role: "Web Developer", company: "Reownlogics — Pakistan", date: "2025" },
+    { role: "Frontend Developer", company: "US Group — Pakistan", date: "2024" },
   ];
 
   return (
